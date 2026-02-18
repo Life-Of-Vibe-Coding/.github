@@ -47,13 +47,13 @@ AI coding is moving fast. We want this place to be the **campfire**: come share 
 
 | Project | Description | Created |
 |---------|-------------|---------|
-| [Animal-Crossing](../../Animal-Crossing) | Lightweight browser-based Animal Crossing-inspired prototype (HTML/CSS/JS) | 2026-02-18 |
-| [Digital-Terrarium](../../Digital-Terrarium) | Calm, living plant companion app — Next.js + SQLite, procedural growth, weather & seasons | 2026-02-18 |
-| [Lofi-Wallpaper](../../Lofi-Wallpaper) | Lo-Fi dynamic wallpaper with in-window LLM chat (macOS Swift) | 2026-02-18 |
-| [acg-social-with-recommendation](../../acg-social-with-recommendation) | ACG-oriented social & content-sharing Next.js full-stack app | 2024-11-06 |
-| [happy-poker-ai](../../happy-poker-ai) | Dou Di Zhu (Fight the Lord) game — Stitch + Nano Banana, cartoon aesthetic | 2026-02-18 |
-| [rate-prof-slide](../../rate-prof-slide) | AI-powered lecture slide critique engine — Neubrutalism UI | 2026-02-18 |
-| [waifu-tutor](../../waifu-tutor) | Full-stack learning companion (Next.js + SQLite, Live2D, Gemini) | 2026-02-09 |
+| [Digital-Terrarium](https://github.com/Life-Of-Vibe-Coding/Digital-Terrarium) | Calm, living plant companion app — Next.js + SQLite, procedural growth, weather & seasons | 2026-02-18 |
+| [Lofi-Wallpaper](https://github.com/Life-Of-Vibe-Coding/Lofi-Wallpaper) | Lo-Fi dynamic wallpaper with in-window LLM chat (macOS Swift) | 2026-02-18 |
+| [acg-social-with-recommendation](https://github.com/Life-Of-Vibe-Coding/acg-social-with-recommendation) | ACG-oriented social & content-sharing Next.js full-stack app | 2024-11-06 |
+| [happy-poker-ai](https://github.com/Life-Of-Vibe-Coding/happy-poker-ai) | Dou Di Zhu (Fight the Lord) game — Stitch + Nano Banana, cartoon aesthetic | 2026-02-18 |
+| [rate-prof-slide](https://github.com/Life-Of-Vibe-Coding/rate-prof-slide) | AI-powered lecture slide critique engine — Neubrutalism UI | 2026-02-18 |
+| [waifu-tutor](https://github.com/Life-Of-Vibe-Coding/waifu-tutor) | Full-stack learning companion (Next.js + SQLite, Live2D, Gemini) | 2026-02-09 |
+| [vibe-coding-everywhere](https://github.com/Life-Of-Vibe-Coding/vibe-coding-everywhere) | Web & mobile clients for local AI coding assistants (Claude/Gemini/Codex via Socket.IO) | 2026-02-12 |
 
 ---
 
