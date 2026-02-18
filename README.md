@@ -55,5 +55,21 @@ AI coding is moving fast. We want this place to be the **campfire**: come share 
 | [waifu-tutor](https://github.com/Life-Of-Vibe-Coding/waifu-tutor) | Full-stack learning companion (Next.js + SQLite, Live2D, Gemini) | 2026-02-09 |
 | [vibe-coding-everywhere](https://github.com/Life-Of-Vibe-Coding/vibe-coding-everywhere) | Web & mobile clients for local AI coding assistants (Claude/Gemini/Codex via Socket.IO) | 2026-02-12 |
 
+### 📋 Project Progress (2026-02-18)
+
+Ordered by priority: **High → Medium → Low**.
+
+| # | Project | Priority | Current status | Next / Roadmap |
+|---|---------|----------|----------------|----------------|
+| 1 | [Waifu-tutor](https://github.com/Life-Of-Vibe-Coding/waifu-tutor) | High | Chat panel layout on web; most features missing. | 1. OpenViking agentic memories (no traditional RAG) 2. Study assistant 3. Entertainment 4. Emotional system (e.g. Grok Annie) 5. Better Live2D / 3D |
+| 2 | [Vibe-coding everywhere](https://github.com/Life-Of-Vibe-Coding/vibe-coding-everywhere) | High *(not available for collaboration)* | Functionality almost complete (Claude Code, Code support; missing Gemini). Pending: multi-session, plan mode, chat bubble UI, iOS/Android UX. | 1. Add Gemini 2. Multi-session 3. Plan mode 4. Chat bubble UI 5. iOS/Android UX |
+| 3 | [rate-prof-slide](https://github.com/Life-Of-Vibe-Coding/rate-prof-slide) | Medium | Fundamental slide-quality metric + basic UI. | 1. Better benchmark 2. More metrics 3. Course-quality rating 4. Online prof/course board |
+| 4 | [Digital-Terrarium](https://github.com/Life-Of-Vibe-Coding/Digital-Terrarium) | Low | Just started; web app only. | 1. iOS/Android as main platforms 2. Generative AI for incremental plant growth 3. Light/environment by time, season, temperature 4. Artistic design 5. UI/UX |
+| 5 | [happy-poker-ai](https://github.com/Life-Of-Vibe-Coding/happy-poker-ai) | Low | Basic cartoon UI; human vs two non-UI bots. | 1. Online web + mobile 2. Fast-clone board games, gaming center |
+| 6 | [Lofi-Wallpaper](https://github.com/Life-Of-Vibe-Coding/Lofi-Wallpaper) | Low | Just started, little progress. | macOS wallpaper customization (Wallpaper Engine–style): weather, temperature, time-of-day. |
+| 7 | [acg-social-with-recommendation](https://github.com/Life-Of-Vibe-Coding/acg-social-with-recommendation) | Low | Java→Next.js migrated; basic layout + auth. | AI-driven recommendation for ACG society. |
+
+**Full detail:** [project_progress_data.md](./progress/project_progress_data.md)
+
 ---
 
